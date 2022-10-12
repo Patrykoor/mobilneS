@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">appkajava1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="przycisk_d">text dolny</string>
+    <string name="przycisk_t">prawda</string>
+    <string name="przycisk_f">falsz</string>
+
+
+    <string name="q1">Czy pomidor to owoc</string>
+    <string name="q2">Czy ananas to owoc</string>
+    <string name="q3">Czy cebula to owoc</string>
+    <string name="q4">Czy ziemniak to owoc</string>
+    <string name="q5">Czy gruszka to owoc</string>
+
+    <string name="incorrect_answer">Błędna opdowiedź</string>
+    <string name="correct_answer">Poprawna opdowiedź</string>
+
+</resources>
