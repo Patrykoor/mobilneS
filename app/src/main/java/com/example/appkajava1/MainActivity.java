@@ -45,11 +45,11 @@ public class MainActivity extends AppCompatActivity {
          pyt_view=findViewById(R.id.pyt_view);
 
 
-        setSupportActionBar(binding.toolbar);
+       // setSupportActionBar(binding.toolbar);
 
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
-        appBarConfiguration = new AppBarConfiguration.Builder(navController.getGraph()).build();
-        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+       // NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
+      //  appBarConfiguration = new AppBarConfiguration.Builder(navController.getGraph()).build();
+      //  NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
 
         t_przyckisk.setOnClickListener(new View.OnClickListener()
         {
